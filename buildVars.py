@@ -28,7 +28,7 @@ addon_info = {
 		"For example, you can add a description of the cyrillic characters to english localization."
 	),
 	# version
-	"addon_version": "0.1.0",
+	"addon_version": "1.0.0",
 	# Author(s)
 	"addon_author": "Danstiv <danstiv@yandex.ru>",
 	# URL for the add-on documentation support
@@ -42,7 +42,7 @@ addon_info = {
 	# Add-on update channel (default is None, denoting stable releases,
 	# and for development releases, use "dev".)
 	# Do not change unless you know what you are doing!
-	"addon_updateChannel": "dev",
+	"addon_updateChannel": "stable",
 }
 
 # Define the python files that are the sources of your add-on.
